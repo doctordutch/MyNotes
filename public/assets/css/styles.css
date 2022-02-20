@@ -9,6 +9,10 @@ body {
   background: linear-gradient(to right, white, gray);
 }
 
+.jvhbrand {
+  color: black;
+}
+
 .save-note {
   display: none;
 }
