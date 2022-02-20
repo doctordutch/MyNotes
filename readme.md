@@ -1,15 +1,21 @@
-# MyNotes - Express.js App
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/MyNotes)
+![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/MyNotes)
+![GitHub](https://img.shields.io/github/license/doctordutch/MyNotes)
+![GitHub last commit](https://img.shields.io/github/last-commit/doctordutch/MyNotes)
+
+# :memo: MyNotes: Express.js Application :memo:
 
 MyNotes is an application for writing and saving notes. This application uses an Express.js backend and will save & retrieve note data from a JSON file. 
 
 This application is deployed to Heroku.
 
-  * [View deployed HEROKU app here!](https://cryptic-wave-47447.herokuapp.com/)
-  * [Installation](#install)
-  * [Usage](#usage)
+
+  🔗 [View deployed HEROKU app here!](https://cryptic-wave-47447.herokuapp.com/)
+  🔗 [Installation](#install)
+  🔗 [Usage](#usage)
   
 
-## Criteria
+## :bulb: Description
 
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
@@ -41,7 +47,7 @@ node server.js
 ```
 This will run the server where you can find the page on localhost:3001. To end your server in your terminal type: control + c
 
-## Built With
+## :hammer: Built With
 - HTML
 - CSS
 - Bootstrap 
@@ -50,5 +56,13 @@ This will run the server where you can find the page on localhost:3001. To end y
   - Express.js
   - Uniqid
 
-### Credits
-Frontend starting files provided © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Questions?
+
+### GitHub Username:
+[DoctorDutch](https://github.com/doctordutch)
+
+###  ✉️ Email me:
+[here](mailto:vanhavenjustin@gmail.com)
+
+### 🔗 Deployed application:
+[https://pure-stream-99195.herokuapp.com/](https://pure-stream-99195.herokuapp.com/)
