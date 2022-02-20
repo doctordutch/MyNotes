@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+.jvh {
+  background: black;
+}
+
 .save-note {
   display: none;
 }
@@ -33,7 +37,7 @@ body {
 
 .note-title {
   height: 50px;
-  margin-top: 1px;
+  margin-top: 0px;
   font-size: 3rem;
 }
 
@@ -74,6 +78,6 @@ body {
 .list-container .list-group-item {
   border-left: none;
   border-right: none;
-  padding: 20px;
+  padding: 0px;
   cursor: pointer;
 }
