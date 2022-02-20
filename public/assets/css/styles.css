@@ -19,7 +19,7 @@ body {
 .note-textarea,
 .note-title {
   color: #000000;
-  background: linear-gradient(to right, black, white);
+  background: linear-gradient(to right, rgb(216, 216, 216), white);
   width: 100%;
   outline: none;
   border: none;
