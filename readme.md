@@ -1,14 +1,13 @@
-# Note Taker App - Express.js
+# MyNotes - Express.js App
 
-This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
-This application will also be deployed to Heroku.
+MyNotes is an application for writing and saving notes. This application uses an Express.js backend and will save & retrieve note data from a JSON file. 
+
+This application is deployed to Heroku.
 
   * [View deployed HEROKU app here!](https://cryptic-wave-47447.herokuapp.com/)
   * [Installation](#install)
   * [Usage](#usage)
   
-
-
 
 ## Criteria
 
@@ -26,8 +25,6 @@ This application will also be deployed to Heroku.
 - WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-
-
 ## Install
 
 Clone project.
@@ -35,7 +32,6 @@ Run the following line of code in your terminal to install all the needed packag
 ```
 npm i
 ```
-
 
 ## Usage
 
@@ -45,7 +41,6 @@ node server.js
 ```
 This will run the server where you can find the page on localhost:3001. To end your server in your terminal type: control + c
 
-
 ## Built With
 - HTML
 - CSS
@@ -54,11 +49,6 @@ This will run the server where you can find the page on localhost:3001. To end y
 - Node.js
   - Express.js
   - Uniqid
-
-## Screen shots
-
-![Shot-1](images/get-started.png)
-![Shot-2](images/notes.png)
 
 ### Credits
 Frontend starting files provided © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
