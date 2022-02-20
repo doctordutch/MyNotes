@@ -40,6 +40,7 @@ body {
   resize: none;
   height: 100%;
   padding-top: 0px;
+  margin: 0;
 }
 
 .note-title {
