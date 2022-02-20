@@ -6,7 +6,7 @@ body {
 }
 
 .jvhtitle {
-  background: black;
+  background: linear-gradient(to right, white, gray);
 }
 
 .save-note {
