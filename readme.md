@@ -10,7 +10,7 @@ MyNotes is an application for writing and saving notes. This application uses an
 This application is deployed to Heroku.
 
 
-  🔗 [View deployed HEROKU app here!](https://cryptic-wave-47447.herokuapp.com/)
+  🔗 [Deployed HEROKU app](https://cryptic-wave-47447.herokuapp.com/)
   🔗 [Installation](#install)
   🔗 [Usage](#usage)
   
@@ -59,10 +59,10 @@ This will run the server where you can find the page on localhost:3001. To end y
 ## Questions?
 
 ### GitHub Username:
-[DoctorDutch](https://github.com/doctordutch)
+[Doctor Dutch](https://github.com/doctordutch)
 
-###  ✉️ Email me:
-[here](mailto:vanhavenjustin@gmail.com)
+###  ✉️ Contact:
+[E-Mail me Here](mailto:vanhavenjustin@gmail.com)
 
 ### 🔗 Deployed application:
-[https://pure-stream-99195.herokuapp.com/](https://pure-stream-99195.herokuapp.com/)
+[https://cryptic-wave-47447.herokuapp.com/](https://cryptic-wave-47447.herokuapp.com/)

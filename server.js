@@ -13,7 +13,7 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// routes to route files
+// route to route files
 require('./routes/apiRoutes')(app);
 require('./routes/htmlRoutes')(app);
 
